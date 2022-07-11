@@ -1,0 +1,7 @@
+url11, 3, -inf 
+url21, 3, -inf 
+url22, 6, -inf 
+url23, 4, -inf 
+url31, 4, -inf 
+url32, 2, -inf 
+url34, 1, -inf 
